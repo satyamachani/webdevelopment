@@ -1,0 +1,16 @@
+body{
+    background-color: honeydew;
+}
+h1{
+    color:seagreen;
+}
+hr{
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    width: 5%;
+}
+img{
+    border-radius: 50%;
+}
